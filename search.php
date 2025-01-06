@@ -1,5 +1,5 @@
 <?php
-$api_key = getenv('GEMINI_API_KEY') ?: 'AIzaSyCq2EoJtuFIG_dQjR2FK0MPqOJEKVNIz2I';
+$api_key = getenv('GEMINI_API_KEY') ?: ';
 
 // セッション開始
 session_start();
